@@ -1,0 +1,15 @@
+﻿Parameter;Value
+alpha;0.25
+eta_ref;0.21
+beta;0.0048
+T_cref;25
+gamma;0.12
+G_ref;1000
+h;0.03
+eta_B;0.95
+c_PV;600
+c_B;800
+c_MPV;0.2
+p_FI;0.1
+p_EL;0.3
+i_INV;0.02
